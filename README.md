@@ -4,7 +4,7 @@
 
 ---
 
- 🚀 About Me
+ 🚀 
 I'm a passionate **Software Developer** based in **Bangalore**, currently pursuing my **B.E. in Computer Science Engineering** from *Jayamath Engineering College (Anna University, 2025)*.
 
 I love bringing ideas to life through clean, responsive web interfaces. Currently exploring **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills.
